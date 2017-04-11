@@ -2,7 +2,7 @@
 Here you will find a simple Python chatbot using IRC that can help demonstrate how to interact with chat on Twitch.
 
 ## Installation
-After you have cloned this repository, use pip or easy_install to install the irc library.
+After you have cloned this repository, use pip or easy_install to install the IRC library.
 
 ```sh
 $ pip install irc

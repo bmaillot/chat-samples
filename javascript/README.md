@@ -1,5 +1,5 @@
 # Twitch Chatbot Javascript Sample
-Here you find a simple JavaScript chatbot that can help demonstrate how to interact with chat on Twitch. The project structure section will give you a quick overview of this code.
+Here you find a simple Javascript chatbot that can help demonstrate how to interact with chat on Twitch. The project structure section will give you a quick overview of this code.
 
 ## Structure
 `index.html`
